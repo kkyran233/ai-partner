@@ -11,14 +11,14 @@
 
 ## 技术栈
 
-- Python 3.14
+- Python 3.10
 - [Streamlit](https://streamlit.io/)：用于快速搭建 Web 应用界面
 - [OpenAI SDK](https://github.com/openai/openai-python)：调用 DeepSeek 大模型 API 实现对话功能
 - JSON 文件存储：本地保存会话数据
 
 ## 安装与运行
 
-访问浏览器中的地址（默认为 `http://localhost:8501`）即可开始使用。
+访问浏览器中的地址即可开始使用。
 
 ## 使用说明
 
